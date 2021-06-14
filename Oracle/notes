@@ -1,0 +1,2 @@
+# create table 문내에서 PK를 지정할때는 PK의 이름을 정할 수 없다
+  Alter Table add constraints 로 가능
