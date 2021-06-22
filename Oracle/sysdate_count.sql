@@ -1,4 +1,4 @@
-* Count(column)의 경우, 해당 컬럼에 NULL이 있는 경우 건수에서 제외됨
+-- Count(column)의 경우, 해당 컬럼에 NULL이 있는 경우 건수에서 제외됨
 -- commission_pct 에는 NULL이 아닌 건이 35건
 -- department_id 에는 NULL이 1건 존재
 
