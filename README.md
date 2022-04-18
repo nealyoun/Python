@@ -1,4 +1,4 @@
-# :fire: TIL 
-Today I Learned
+# :fire: WIL 
+TIL -> "What I Learned"
 
 
